@@ -109,8 +109,8 @@ Demo Video
 
 <         YOUTUBE LINK       >
 
-https://youtube.com/your-video
-🔗 Repository
+[https://youtube.com/your-video](https://www.youtube.com/watch?v=D_KMIuIqsMg)
+ Repository
 
 https://github.com/reagnm4/COP3053-P2-Group-65-GatorPath
 
